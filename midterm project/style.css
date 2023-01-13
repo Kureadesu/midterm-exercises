@@ -1,0 +1,195 @@
+.title {
+    color: wheat;
+    font-family: "Roboto Slab";
+    font-size: 60px;
+    padding-left: 10px;
+    letter-spacing: 4px;
+}
+#author {
+    color: white;
+}
+.nav {
+    text-align: center;
+    padding: 12px 12px;
+}
+.link {
+    font-size:  30px;
+    border: 1px white solid;
+    text-align: center;
+    margin: 15px;
+    background-color: rgb(238, 171, 26);
+    font-family: "Cabin";
+    text-decoration: solid;
+    
+}
+.copyright {
+    color: white;
+    font-size: 12px;
+}
+.subtext {
+    font-family: "Martian Mono";
+    color: white;
+    background-color: rgba(44, 22, 90, 0.637);
+    font-size: 20px;
+    text-indent: 5ch;
+    padding: 15px;
+}
+.body {
+    text-align: justify;
+    float: left;
+    width: 50%;
+}
+.subtext2 {
+    font-family: "Martian Mono";
+    color: white;
+    background-color: rgba(44, 22, 90, 0.637);
+    font-size: 20px;
+    text-indent: 5ch;
+    padding: 15px;
+}
+.body2 {
+    text-align: justify;
+}
+body {
+    background-color: rgb(39, 179, 179);
+}
+#img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 2px solid orange;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.email, .email:active {
+    color: #ffebcd;
+}
+.email:hover {
+    color: red;
+}
+.link, .link:active {
+    color: bisque;
+}
+.link:hover {
+    color: red;
+}
+header {
+    border-radius: 10px;
+    background-color: rgba(210, 105, 30, 0.795);
+}
+footer {
+    text-align: center;
+}
+.highlight {
+    color: white;
+    background-color: rgb(0, 0, 0);
+}
+.caption {
+    text-align: center;
+    padding: 10px 20px;
+    font-family: "Cabin";
+    color: white;
+    font-size: 25px;
+}
+.subtext3 {
+    text-align: center;
+    font-family: "Martian Mono";
+    color: white;
+    background-color: rgba(44, 22, 90, 0.637);
+    font-size: 20px;
+    padding: 15px;
+}
+.subtitle {
+    font-family: "Roboto Slab";
+    font-size: 32px;
+    color: rgb(229, 240, 75);
+    background-color: #926016;
+    text-align: center;
+}
+#img1 {
+    width: 40%;
+}
+#img2 {
+    display: block;
+    width: 100%;
+    border: 2px solid orange;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#img3 {
+    display: block;
+    width: 100%;
+    border: 2px solid orange;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#image {
+    padding: 20px;
+}
+#image2 {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#image3 {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#image4 {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#image5 {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+#image6 {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#image7 {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+}
+#img4 {
+    display: block;
+    width: 100%;
+    border: 2px solid orange;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#img5 {
+    display: block;
+    width: 100%;
+    border: 2px solid orange;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#img6 {
+    display: block;
+    width: 100%;
+    border: 2px solid orange;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#img7 {
+    display: block;
+    width: 100%;
+    border: 2px solid orange;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

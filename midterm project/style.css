@@ -29,37 +29,20 @@
 .subtext {
     font-family: "Martian Mono";
     color: white;
-    background-color: rgba(44, 22, 90, 0.637);
+    background-color: rgba(21, 122, 89, 0.74);
     font-size: 20px;
     text-indent: 5ch;
     padding: 15px;
+    text-align: justify;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
 }
 .body {
     text-align: justify;
-    float: left;
-    width: 50%;
-}
-.subtext2 {
-    font-family: "Martian Mono";
-    color: white;
-    background-color: rgba(44, 22, 90, 0.637);
-    font-size: 20px;
-    text-indent: 5ch;
-    padding: 15px;
-}
-.body2 {
-    text-align: justify;
 }
 body {
-    background-color: rgb(39, 179, 179);
-}
-#img1 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    border: 2px solid orange;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-image: url(biobg.png);
 }
 .email, .email:active {
     color: #ffebcd;
@@ -75,6 +58,9 @@ body {
 }
 header {
     border-radius: 10px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
     background-color: rgba(210, 105, 30, 0.795);
 }
 footer {
@@ -95,9 +81,12 @@ footer {
     text-align: center;
     font-family: "Martian Mono";
     color: white;
-    background-color: rgba(44, 22, 90, 0.637);
+    background-color: rgba(21, 122, 89, 0.74);
     font-size: 20px;
     padding: 15px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
 }
 .subtitle {
     font-family: "Roboto Slab";
@@ -105,9 +94,17 @@ footer {
     color: rgb(229, 240, 75);
     background-color: #926016;
     text-align: center;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
 }
 #img1 {
-    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border: 2px solid orange;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 #img2 {
     display: block;
@@ -120,54 +117,6 @@ footer {
     width: 100%;
     border: 2px solid orange;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-#image {
-    padding: 20px;
-}
-#image2 {
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: gray;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-#image3 {
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: gray;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-#image4 {
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: gray;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-#image5 {
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: gray;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin-bottom: 25px;
-    margin-top: 25px;
-}
-#image6 {
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: gray;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-#image7 {
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: gray;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin-bottom: 25px;
 }
 #img4 {
     display: block;
@@ -192,4 +141,120 @@ footer {
     width: 100%;
     border: 2px solid orange;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#img8 {
+    display: block;
+    width: 100%;
+    border: 2px solid orange;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#img9 {
+    display: block;
+    width: 100%;
+    border: 2px solid orange;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#img10 {
+    display: block;
+    width: 100%;
+    border: 2px solid orange;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#img11 {
+    display: block;
+    width: 100%;
+    border: 2px solid orange;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#image {
+    margin: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#image2 {
+    margin: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#image3 {
+    margin: 20px;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#image4 {
+    margin: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#image5 {
+    margin: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+#image6 {
+    margin: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#image7 {
+    margin: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+}
+#image8 {
+    margin: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+}
+#image9 {
+    margin: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+}
+#image10 {
+    margin: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+}
+#image11 {
+    margin: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
 }
